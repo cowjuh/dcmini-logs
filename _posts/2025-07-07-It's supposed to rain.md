@@ -2,7 +2,7 @@
 layout: post
 title: "It's supposed to rain"
 date: 2025-07-07
-excerpt: "wip"
+excerpt: "A day of truly focused work, slamming through my tasks, learning, enjoying."
 ---
 
 ## Todo
@@ -53,3 +53,16 @@ excerpt: "wip"
 
 **5:15PM**
 - Home. Eat a panna cotta.
+- PURCHASE THE PARTS I NEED FROM SHOPEE NOW THAT I HAVE A PHONE NUMBER GOD BLESSSSSSS
+- Turns out Shopee has a ton of other interesting shiny distracting things but I don't buy anything
+- Waste time
+- [This vinyl is fucking sick](https://youtu.be/DIiZaNmo5qI?si=n0KYAWvfaMTV_hEm)
+
+**8:00PM**
+- Leave house. Buy 1 single skewer.
+- Walk to late night coffee shop. It's full.
+- Walk to another one. Sit down and do work.
+
+**10:00PM**
+- Still at late night cafe. Call with [REDACTED]
+- Reels format research + design. Video game inspired.

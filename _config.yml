@@ -1,0 +1,23 @@
+title: dcmini-logs
+description: Daily logs and thoughts
+author: Jenny Zhang
+url: "https://cowjuh.github.io/dcmini-logs"
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - .bundle/ 

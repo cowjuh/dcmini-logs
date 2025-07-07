@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "It's supposed to rain"
-date: 2027-07-07
-excerpt: ""
+date: 2025-07-07
+excerpt: "wip"
 ---
 
 ## Todo
@@ -31,3 +31,4 @@ excerpt: ""
 **11:46AM**
 - I'm hungry.
 - Hao min is not in town so I won't have access to Fablab. Need to check out Maker Lab instead which is closer anyways.
+- Annoyed at the amount of project overhead needed (video format, vlogging style, ensuring metadata is correct for footage import, my on-camera personality, GETTING USED TO BEING IN TAIWAN LOL, this website, where to get parts.)

@@ -43,3 +43,13 @@ excerpt: "wip"
 - SLAMMED A HOT DOG BUN 
 - I think about why this POV format compels me. Why I stopped caring about cinematic posed shots. I think my answer is simply that people lack the attention span to enjoy it. You'd be doing it for yourself and no one else which is a good enough reason to do anything. You could say it's the only reason to do anything. Propping my camera up on a table across from mine, hopping back to my seat, pretending I don't see the camera... not a dance I'm willing to do anymore. Give me the RAW STUFF. The A-roll. The stuff I see with my eyes for real. Not what I manufacture for aesthetics. Give me the STORY.
 - Eating pasta at Beppin Pasta. It's good.
+
+**3:40PM**
+- They do not have the camera sensor I'm lookin for on any of the Guanghua plaza floors, nor inside JinHua. I asked if any other stores carry them and th JinHua clerk just shook her head.
+- Ok. SIM card to be able to buy off Shopee it is then.
+- Passed by arts & crafts store. Bought prototyping materials totalling to $8USD. Would have cost $20 in the US. 
+- Chunghwa eSIM purchased and installed
+- Start biking home
+
+**5:15PM**
+- Home. Eat a panna cotta.

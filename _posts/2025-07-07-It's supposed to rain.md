@@ -32,3 +32,9 @@ excerpt: "wip"
 - I'm hungry.
 - Hao min is not in town so I won't have access to Fablab. Need to check out Maker Lab instead which is closer anyways.
 - Annoyed at the amount of project overhead needed (video format, vlogging style, ensuring metadata is correct for footage import, my on-camera personality, GETTING USED TO BEING IN TAIWAN LOL, this website, where to get parts.)
+
+**1:48PM**
+- Refreshed on elec knowledge, feels good to read textbooks
+    - Also feels good to not feel pressure to record while I'm doing a "mundane" activity
+    - Inability to vlog, talk, listen to music is causing me to be quite focused
+- Getting food

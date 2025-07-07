@@ -15,10 +15,12 @@ excerpt: "A Sunday morning workout with local aunties and uncles, followed by vi
 **7:30AM**
 - Eat leftover steamed bun
 - Visit coffee shop, receive a free drink
+    - Barista starts playing a Joe Hisaishi soundtrack for one of the Ghibli movies. Did I just get profiled? He clocked me.
 - Walk over to the park, it's a SUNDAY!
 
 **8:30AM**
 - Run into aunties and uncles exercising, join in
+- One aunty in particular takes a liking to me and is very verbose (non-derogatory) about explaining how to do each movement. I am deeply grateful to her.
 
 **10:00AM**
 - Bathroom break
@@ -34,6 +36,7 @@ excerpt: "A Sunday morning workout with local aunties and uncles, followed by vi
 - Forgot to eat lunch. Very bad, need to eat.
 - Editing takes. A. Long. Time.
 - Had dinner, talked to a sweet lady whose 28 year old son is studying electronics, got her contacts
+    - Aunties seem to like talking to me
 - Went on a long walk through the city, bought panna cotta
 - Biked to eslite 24h bookstore, spent some time there
 

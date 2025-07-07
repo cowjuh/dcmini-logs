@@ -39,6 +39,9 @@ excerpt: "A Sunday morning workout with local aunties and uncles, followed by vi
     - Aunties seem to like talking to me
 - Went on a long walk through the city, bought panna cotta
 - Biked to eslite 24h bookstore, spent some time there
+    - Tons of books in Chinese that I cannot read. I'm left feeling sad but upon reflection should feel excitement at the overwhelming amount of material I can start understanding once I can generally read more characters.
+	- I've been reading《解忧杂货店》东野圭吾 on Pleco which I found on some guy's repo of presumably pirated epubs. [Link](https://github.com/zhoulujun/iBook-ebook/blob/master/%E3%80%8A%E8%A7%A3%E5%BF%A7%E6%9D%82%E8%B4%A7%E5%BA%97%E3%80%8B%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE.epub)
+	    - After the initial confusion of character names, new terminology, etc, it actually becomes an easy read. You start seeing recurring words, patterns in the author's writing, and it becomes kind of a great way to drill these characters into your brain through repeated exposure.
 
 **9:30**
 - Biked home, turned on the TV for the first time
